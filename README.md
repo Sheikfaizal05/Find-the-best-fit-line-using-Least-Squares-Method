@@ -63,6 +63,7 @@ plt.show()
   0.80405405  4.12331081  7.44256757 12.97466216]
 
 ​
+![image](https://github.com/user-attachments/assets/880375b7-29bf-47f9-9c9a-08a3560faa0f)
 
 
 ## Result:
